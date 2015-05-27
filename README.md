@@ -10,6 +10,11 @@ Jacman is a fresh looking and responsive theme for [Hexo](http://hexo.io) with m
 
 [如何使用 Jacman 主题](http://wuchong.me/blog/2014/11/20/how-to-use-jacman/)
 
+##愉快的使用**Hexo**主题
+
+用**Hexo**写博客的时候, 先把**Hexo**装好, 需要修改的是hexo根目录下的配置文件(`_config.yml`)和`themes`目录下的主题.
+直接把`git clone https://github.com/cyrusin/jacman.git themes/jacman`, 然后把`themes/jacman/_config.yml.root`copy到hexo根目录下.
+
 ##Installation
 ###Install
 ```
