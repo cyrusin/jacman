@@ -17,6 +17,7 @@ widgets:
 - links
 - douban
 - rss
+- weibo
 ## provide seven widgets:category,tag,rss,archive,tagcloud,links,weibo,douban
 
 
@@ -48,7 +49,7 @@ author:
   intro_line1:  "Hello ,I'm a developer focus on backend technology of web."    ## your introduction on the bottom of the page
   intro_line2:  "This is my blog, thanks for reading it."  ## the 2nd line
   weibo: xiaolee123     ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
-  weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
+  weibo_verifier: 8ee35701  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina: 3024687697     ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban: mixlee    ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu: cyrusin     ## e.g. jark  for http://www.zhihu.com/people/jark
@@ -92,8 +93,8 @@ google_analytics:
 ## You MUST upgrade to Universal Analytics first!
 ## https://developers.google.com/analytics/devguides/collection/upgrade/?hl=zh_CN
 baidu_tongji:
-  enable: false
-  sitecode:  ## e.g. e6d1f421bbc9962127a50488f9ed37d1 your baidu tongji site code
+  enable: true
+  sitecode: 62acfc9311f41b2f234045e170daea66 ## e.g. e6d1f421bbc9962127a50488f9ed37d1 your baidu tongji site code
 cnzz_tongji:
   enable: false
   siteid:    ## e.g. 1253575964 your cnzz tongji site id
