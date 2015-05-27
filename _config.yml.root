@@ -13,7 +13,7 @@ email: lysh0526@gmail.com
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://cyrusin.github.io
+url: https://cyrusin.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +63,7 @@ pagination_dir: page
 
 #sitemap
 sitemap:
-path: sitemap.xml
+    path: sitemap.xml
 ##Feed Atom
 feed:
 type: atom
